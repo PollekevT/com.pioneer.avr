@@ -1,16 +1,16 @@
 {
-  "id": "com.pioneer.avr",
-  "version": "0.3.0",
+  "id": "com.tilborg.pioneer.iscp",
+  "version": "0.0.1",
   "compatibility": ">=1.5.0",
   "sdk": 2,
   "name": {
-    "en": "Pioneer AVR"
+    "en": "Pioneer eISCP"
   },
   "description": {
-    "en": "Pioneer AV-Receiver application using SSDP and Telnet.",
-    "nl": "Pioneer AV-Receiver applicatie gebruik makend van SSDP en Telnet.",
-    "de": "Pioneer AV-Receiver-Anwendung mit SSDP und Telnet.",
-    "fr": "Application Pioneer AV-Receiver utilisant SSDP et Telnet"
+    "en": "Pioneer eISCP",
+    "nl": "Pioneer eISCP",
+    "de": "Pioneer eISCP",
+    "fr": "Pioneer eISCP"
   },
   "category": [
     "music"
@@ -21,9 +21,9 @@
     "small": "/assets/images/small.png"
   },
   "author": {
-    "name": "Rinze Winters",
-    "email": "contact@rinzewinters.nl",
-    "website": "http://www.rinzewinters.nl"
+    "name": "Paul van Tilborg",
+    "email": "contact@van-tilborg.com",
+    "website": "http://www.van-tilborg.com"
   },
   "contributing": {
     "donate": {
