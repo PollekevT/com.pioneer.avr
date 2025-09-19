@@ -229,7 +229,7 @@
           {
             "name": "device",
             "type": "device",
-            "filter": "driver_id=vsx"
+            "filter": "driver_id=vsx_iscp"
           },
           {
             "name": "input_source",
@@ -403,7 +403,7 @@
           {
             "name": "device",
             "type": "device",
-            "filter": "driver_id=vsx"
+            "filter": "driver_id=vsx_iscp"
           },
           {
             "name": "input_source",
